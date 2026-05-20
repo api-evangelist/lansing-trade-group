@@ -22,6 +22,8 @@ tags:
   - Trading
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/lansing-trade-group-llc
   - type: Website
     url: https://www.lansingtradegroup.com
   - type: ParentCompany
