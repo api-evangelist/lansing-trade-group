@@ -22,6 +22,8 @@ tags:
   - Trading
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/lansing-trade-group-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/lansing-trade-group-llc
   - type: Website
