@@ -1,7 +1,9 @@
 ---
 title: The Andersons Strategy and Business Model
 url: https://umbrex.com/resources/company-profiles/the-andersons/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Lansing Trade Group" press release artificial intelligence'
 position: 3
 source: serpapi-google
